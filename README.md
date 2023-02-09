@@ -10,4 +10,4 @@
 
 ![image](https://user-images.githubusercontent.com/58325946/217687561-6820b305-2d30-4d3e-abe7-e415ca4acd79.png)
 
-<img src="https://user-images.githubusercontent.com/58325946/217687842-ce64d757-1584-4abc-a08c-08e2e2cd246f.png" width="412" height="800"> <img src="https://user-images.githubusercontent.com/58325946/217687892-f8cb8e05-182a-4622-9933-77c1c053cb99.png" width="412" height="800">
+<img src="https://user-images.githubusercontent.com/58325946/217687842-ce64d757-1584-4abc-a08c-08e2e2cd246f.png" width="412" height="900"> <img src="https://user-images.githubusercontent.com/58325946/217687892-f8cb8e05-182a-4622-9933-77c1c053cb99.png" width="412" height="900">
