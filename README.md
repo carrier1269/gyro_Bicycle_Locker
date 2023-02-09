@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/58325946/217687372-36ccf053-052a-41ab-a826-c32375a4e674.png)
 
-<img src="https://user-images.githubusercontent.com/58325946/217687411-9dec1b1a-1773-4534-9907-5e63eaf87930.png" width="400" height="400"> <img src="https://user-images.githubusercontent.com/58325946/217687432-329eaa92-a62d-4a78-9c78-b5a4b36ef800.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/58325946/217687411-9dec1b1a-1773-4534-9907-5e63eaf87930.png" width="420" height="420"> <img src="https://user-images.githubusercontent.com/58325946/217687432-329eaa92-a62d-4a78-9c78-b5a4b36ef800.png" width="420" height="420">
 
 
 
